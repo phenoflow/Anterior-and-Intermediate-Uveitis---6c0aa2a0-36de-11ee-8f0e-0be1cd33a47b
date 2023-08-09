@@ -1,0 +1,51 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/anterior-and-intermediate-uveitis-iritis---primary.py
+inputModule3:
+  class: File
+  path: python/chronic-anterior-and-intermediate-uveitis---primary.py
+inputModule4:
+  class: File
+  path: python/anterior-and-intermediate-uveitis-herpe---primary.py
+inputModule5:
+  class: File
+  path: python/anterior-and-intermediate-uveitis-iridocyclitis---primary.py
+inputModule6:
+  class: File
+  path: python/anterior-and-intermediate-uveitis---primary.py
+inputModule7:
+  class: File
+  path: python/anterior-and-intermediate-uveitis-subacute---primary.py
+inputModule8:
+  class: File
+  path: python/secondary-anterior-and-intermediate-uveitis---primary.py
+inputModule9:
+  class: File
+  path: python/anterior-and-intermediate-uveitis-hypopyon---primary.py
+inputModule10:
+  class: File
+  path: python/anterior-and-intermediate-uveitis-unspecified---primary.py
+inputModule11:
+  class: File
+  path: python/certain-anterior-and-intermediate-uveitis---primary.py
+inputModule12:
+  class: File
+  path: python/anterior---primary.py
+inputModule13:
+  class: File
+  path: python/anterior-and-intermediate-uveitis-iridocyclitis---secondary.py
+inputModule14:
+  class: File
+  path: python/other-anterior-and-intermediate-uveitis---secondary.py
+inputModule15:
+  class: File
+  path: python/anterior-and-intermediate-uveitis-classified---secondary.py
+inputModule16:
+  class: File
+  path: python/output-cases.py
